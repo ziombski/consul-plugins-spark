@@ -4,6 +4,6 @@
   "properties": {
   },
   "plugins": [
-    "https://github.com/sequenceiq/consul-plugins-spark.git"
+    "https://github.com/ziombski/consul-plugins-spark.git"
   ]
 }
