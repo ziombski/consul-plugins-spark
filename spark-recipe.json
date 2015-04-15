@@ -1,5 +1,5 @@
 {
-  "name": "spark-recipe",
+  "name": "spark-recipe2",
   "description": "sets up Apache Spark on an Ambari cluster",
   "properties": {
   },
